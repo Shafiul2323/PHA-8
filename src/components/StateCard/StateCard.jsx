@@ -1,10 +1,10 @@
 import React from 'react';
 
-const OverviewBanner = () => {
+const StateCard = () => {
     return (
         <div className='flex flex-col items-center bg-linear-to-br from-[#632EE3] to-[#9F62F2] py-15 px-25 text-white'>
             <h2 className='text-4xl font-bold text-center'>Trusted by Millions, Built for You</h2>
-            <div className='flex gap-5 pt-10'>
+            <div className='flex gap-8 pt-10'>
                 <div>
                     <p className='text-xl'>Total Downloads</p>
                     <div className='flex gap-4 py-3'>
@@ -34,4 +34,4 @@ const OverviewBanner = () => {
     );
 };
 
-export default OverviewBanner;
+export default StateCard;

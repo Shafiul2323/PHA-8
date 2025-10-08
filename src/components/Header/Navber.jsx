@@ -29,7 +29,7 @@ const Navber = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn bg-linear-to-r from-[#632EE3] to-[#9F62F2]"><img src={GithubLogo} /><span className='text-white font-semibold'>Contribute</span></a>
+                <a href='https://github.com/jannatmollah' target='_blank' className="btn bg-linear-to-r from-[#632EE3] to-[#9F62F2]"><img src={GithubLogo} /><span className='text-white font-semibold'>Contribute</span></a>
             </div>
         </div>
     );

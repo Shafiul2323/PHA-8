@@ -12,8 +12,8 @@ const Banner = () => {
                     <p className='italic max-w-8/12 mx-auto text-xl pb-5'>At <span class="font-bold">HERO.IO</span> , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. Our goal is to turn your ideas into digital experiences that truly make an impact</p>
                 </div>
                 <div className='flex gap-5'>
-                    <a href="" className='btn btn-xs bg-white hover:bg-gray-200 sm:btn-sm md:btn-md lg:btn-lg xl:btn-xl rounded-xl'><img src={GooglePlayLogo} className='w-8 h-8'/>Google Play</a>
-                    <a href="" className='btn btn-xs bg-white hover:bg-gray-200 sm:btn-sm md:btn-md lg:btn-lg xl:btn-xl rounded-xl'><img src={AppleStoreLogo} className='w-8 h-8'/>Google Play</a>
+                    <a href="https://play.google.com/store/games" target='_blank' className='btn btn-xs bg-white hover:bg-gray-200 sm:btn-sm md:btn-md lg:btn-lg xl:btn-xl rounded-xl'><img src={GooglePlayLogo} className='w-8 h-8'/>Google Play</a>
+                    <a href="https://www.apple.com/app-store" target='_blank' className='btn btn-xs bg-white hover:bg-gray-200 sm:btn-sm md:btn-md lg:btn-lg xl:btn-xl rounded-xl'><img src={AppleStoreLogo} className='w-8 h-8'/>App Store</a>
                 </div>
             </div>
             <img src={BannerImage} className='w-3xl mx-auto'/>
