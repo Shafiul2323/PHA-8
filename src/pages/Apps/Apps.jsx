@@ -1,7 +1,12 @@
 import React from 'react';
 import VScodeLogo from '../../assets/VSCode.png'
+import { useLoaderData } from 'react-router';
+import AppCard from '../../components/AppCard/AppCard';
 
 const Apps = () => {
+    const data = useLoaderData();
+    console.log(data)
+
     return (
         <div>
             <div className='bg-[#E9E9E9]'>
@@ -14,8 +19,8 @@ const Apps = () => {
                 </div>
             </div>
 
-            <div>
-                
+            <div className='bg-[#E9E9E9] px-17 py-5 mx-auto'>
+                <AppCard></AppCard>
             </div>
         </div>
     );

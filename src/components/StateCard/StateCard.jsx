@@ -9,7 +9,7 @@ const StateCard = () => {
                     <p className='text-xl'>Total Downloads</p>
                     <div className='flex gap-4 py-3'>
                         <p className='text-5xl font-extrabold'>29.6M</p>
-                        <i class="fa-solid fa-download text-5xl font-extrabold"></i>
+                        <i className="fa-solid fa-download text-5xl font-extrabold"></i>
                     </div>
                     <p className='text-xs'>21% more than last month</p>
                 </div>
@@ -17,7 +17,7 @@ const StateCard = () => {
                     <p className='text-xl'>Total Reviews</p>
                     <div className='flex gap-4 py-3'>
                         <p className='text-5xl font-extrabold'>906K</p>
-                        <i class="fa-solid fa-star text-5xl font-extrabold"></i>
+                        <i className="fa-solid fa-star text-5xl font-extrabold"></i>
                     </div>
                     <p className='text-xs'>46% more than last month</p>
                 </div>
@@ -25,7 +25,7 @@ const StateCard = () => {
                     <p className='text-xl'>Active Apps</p>
                     <div className='flex gap-4 py-3'>
                         <p className='text-5xl font-extrabold'>132+</p>
-                        <i class="fa-brands fa-google-play text-5xl font-extrabold"></i>
+                        <i className="fa-brands fa-google-play text-5xl font-extrabold"></i>
                     </div>
                     <p className='text-xs'>31 more will Launch</p>
                 </div>
