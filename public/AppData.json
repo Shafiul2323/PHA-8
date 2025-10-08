@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "forest.png",
+    "image": "/src/assets/AppIcon1.webp",
     "title": "Forest: Focus for Productivity",
     "companyName": "SeekrTech",
     "description": "Forest helps you stay focused by planting trees as you work. If you remain productive, your tree flourishes; if you leave, it withers. A gamified focus app that reduces distractions and boosts motivation.",
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "image": "smplan.png",
+    "image": "/src/assets/AppIcon2.webp",
     "title": "SmPlan: ToDo List with Reminder",
     "companyName": "SmartPlan Studio",
     "description": "SmPlan is a powerful to-do list app with reminders. Organize tasks, set deadlines, and stay productive with recurring notifications and a clean interface for daily planning.",
@@ -37,7 +37,7 @@
   },
   {
     "id": 3,
-    "image": "flip.png",
+    "image": "/src/assets/AppIcon3.webp",
     "title": "FLIP - Focus Timer for Study",
     "companyName": "Rinasoft",
     "description": "FLIP helps students and professionals use the Pomodoro method to improve focus. Track study hours, analyze time data, and join global study challenges for motivation.",
@@ -55,7 +55,7 @@
   },
   {
     "id": 4,
-    "image": "pomocat.png",
+    "image": "/src/assets/AppIcon4.webp",
     "title": "Pomocat - Cute Pomodoro Timer",
     "companyName": "CatMind Studio",
     "description": "Pomocat makes productivity fun with a Pomodoro timer and adorable cat animations. Stay focused and motivated while enjoying a cute, distraction-free timer experience.",
@@ -73,7 +73,7 @@
   },
   {
     "id": 5,
-    "image": "timeplanner.png",
+    "image": "/src/assets/AppIcon5.webp",
     "title": "Time Planner: Schedule & Tasks",
     "companyName": "TimeTune Studio",
     "description": "Time Planner combines task scheduling, routines, and habit tracking into one app. Organize daily life with customizable time blocks and analyze productivity with reports.",
@@ -91,7 +91,7 @@
   },
   {
     "id": 6,
-    "image": "flipclock.png",
+    "image": "/src/assets/AppIcon6.webp",
     "title": "Flip Clock: World Clock",
     "companyName": "SimpleTech",
     "description": "A stylish flip clock and world clock app. Perfect for minimalist time tracking, global time zones, and creating aesthetic desk setups with retro-inspired visuals.",
@@ -109,7 +109,7 @@
   },
   {
     "id": 7,
-    "image": "morninghabits.png",
+    "image": "/src/assets/AppIcon7.webp",
     "title": "Morning Habits - Daily Routine",
     "companyName": "BetterYou",
     "description": "Morning Habits helps you build a structured daily routine with reminders for exercise, journaling, meditation, and self-care to start your day positively and productively.",
@@ -127,7 +127,7 @@
   },
   {
     "id": 8,
-    "image": "focusplant.png",
+    "image": "/src/assets/AppIcon8.webp",
     "title": "Focus Plant: Pomodoro Forest",
     "companyName": "SeekrTech",
     "description": "Focus Plant gamifies focus with Pomodoro timers and cute plants. Stay productive while growing and collecting plants in a virtual garden as you complete tasks.",
@@ -145,7 +145,7 @@
   },
   {
     "id": 9,
-    "image": "alarmy.png",
+    "image": "/src/assets/AppIcon9.webp",
     "title": "Alarmy - Alarm Clock & Sleep",
     "companyName": "Delight Room",
     "description": "Alarmy is a unique alarm clock app with fun challenges to get you out of bed. Solve puzzles, take photos, or complete tasks to disable the alarm and wake up fully.",
@@ -163,7 +163,7 @@
   },
   {
     "id": 10,
-    "image": "todolist.png",
+    "image": "/src/assets/AppIcon10.webp",
     "title": "To-Do List - Schedule Planner",
     "companyName": "TaskPro",
     "description": "An all-in-one to-do list and schedule planner. Create tasks, set reminders, and organize your life with recurring schedules and intuitive productivity tools.",
@@ -181,7 +181,7 @@
   },
   {
     "id": 11,
-    "image": "todolist2.png",
+    "image": "/src/assets/AppIcon11.webp",
     "title": "To Do List",
     "companyName": "SimpleLife Studio",
     "description": "A lightweight to-do list app with easy task creation, reminders, and task prioritization. Great for personal use and daily productivity without extra clutter.",
@@ -199,7 +199,7 @@
   },
   {
     "id": 12,
-    "image": "waterdo.png",
+    "image": "/src/assets/AppIcon12.webp",
     "title": "WaterDo: To Do List & Schedule",
     "companyName": "SeekrTech",
     "description": "WaterDo is a unique to-do list app where tasks appear as water bubbles. Pop them to mark as done, making productivity fun and stress-free with gamified visuals.",
@@ -217,7 +217,7 @@
   },
   {
     "id": 13,
-    "image": "taskito.png",
+    "image": "/src/assets/AppIcon13.webp",
     "title": "Taskito: To-Do List & Planner",
     "companyName": "Taskito",
     "description": "Taskito provides a simple timeline-based task manager. Add notes, reminders, and repetitive tasks to stay organized with both work and personal projects.",
@@ -235,7 +235,7 @@
   },
   {
     "id": 14,
-    "image": "todolist3.png",
+    "image": "/src/assets/AppIcon14.webp",
     "title": "To-do list - tasks planner",
     "companyName": "SimpleApps",
     "description": "A practical tasks planner to manage daily to-dos with categories, priorities, and reminders. Helps maintain focus on both short-term and long-term goals.",
@@ -253,7 +253,7 @@
   },
   {
     "id": 15,
-    "image": "disciplined.png",
+    "image": "/src/assets/AppIcon15.webp",
     "title": "Disciplined - Habit Tracker",
     "companyName": "Discipline Labs",
     "description": "Disciplined helps you create and maintain positive habits. Track progress, set streaks, and stay accountable with reminders and detailed habit statistics.",
@@ -271,7 +271,7 @@
   },
   {
     "id": 16,
-    "image": "digitaldetox.png",
+    "image": "/src/assets/AppIcon16.webp",
     "title": "Digital Detox: Focus & Live",
     "companyName": "Urbandroid",
     "description": "Digital Detox locks your phone to help you reduce screen time. Set challenges to break phone addiction, focus better, and live a healthier, balanced lifestyle.",
@@ -289,7 +289,7 @@
   },
   {
     "id": 17,
-    "image": "routineplanner.png",
+    "image": "/src/assets/AppIcon17.webp",
     "title": "Routine Planner, Habit Tracker",
     "companyName": "LifeBalance",
     "description": "Routine Planner is an all-in-one habit tracker and daily planner. Build consistent routines, track progress, and achieve long-term goals with reminders and charts.",
@@ -307,7 +307,7 @@
   },
   {
     "id": 18,
-    "image": "timetimer.png",
+    "image": "/src/assets/AppIcon18.webp",
     "title": "Time Timer Visual Productivity",
     "companyName": "TimeTimer",
     "description": "Time Timer uses visual countdowns to improve focus and productivity. Popular for students, teachers, and professionals needing simple time management.",
@@ -325,7 +325,7 @@
   },
   {
     "id": 19,
-    "image": "yourhour.png",
+    "image": "/src/assets/AppIcon19.webp",
     "title": "YourHour - ScreenTime App",
     "companyName": "Mindefy Labs",
     "description": "YourHour tracks your screen usage and helps fight phone addiction. Get daily reports, usage insights, and challenges to balance your digital life.",
@@ -343,7 +343,7 @@
   },
   {
     "id": 20,
-    "image": "timelog.png",
+    "image": "/src/assets/AppIcon20.webp",
     "title": "Timelog - Goal & Time Tracker",
     "companyName": "TimeTrack Labs",
     "description": "Timelog allows you to set goals and track time spent on different activities. Ideal for professionals and students to measure productivity and growth.",
@@ -361,7 +361,7 @@
   },
   {
     "id": 21,
-    "image": "habitnow.png",
+    "image": "/src/assets/AppIcon21",
     "title": "HabitNow Daily Routine Planner",
     "companyName": "HabitNow",
     "description": "HabitNow helps track habits and daily tasks with streaks, reminders, and progress reports. Build routines to improve productivity and personal growth.",
@@ -379,7 +379,7 @@
   },
   {
     "id": 22,
-    "image": "motivated.png",
+    "image": "/src/assets/AppIcon22",
     "title": "Motivated: Habit Tracker",
     "companyName": "Motivation Apps",
     "description": "Motivated helps you form new habits and break bad ones with reminders, streaks, and motivational quotes. Stay inspired and consistent every day.",
@@ -397,7 +397,7 @@
   },
   {
     "id": 23,
-    "image": "listok.png",
+    "image": "/src/assets/AppIcon23",
     "title": "Listok: To do list & Notes",
     "companyName": "Listok Studio",
     "description": "Listok combines to-do lists and note-taking. Capture ideas, set tasks, and manage personal or work projects with ease in one simple app.",
@@ -415,7 +415,7 @@
   },
   {
     "id": 24,
-    "image": "sectograph.png",
+    "image": "/src/assets/AppIcon24",
     "title": "Sectograph. Day & Time planner",
     "companyName": "Laboratory27",
     "description": "Sectograph visualizes your day as a clock dial. Plan tasks and events in a circular timeline, making time management simple and visually intuitive.",

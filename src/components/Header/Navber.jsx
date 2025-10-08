@@ -1,12 +1,13 @@
 import React from 'react';
 import LogoImage from '../../assets/logo.png'
 import GithubLogo from '../../assets/github.png'
+import { Link } from 'react-router';
 
 const Navber = () => {
     const links = <>
-        <li><a className='text-xl text-gray-500 font-semibold'><i class="fa-regular fa-house"></i>Home</a></li>
-        <li><a className='text-xl text-gray-500 font-semibold'><i class="fa-brands fa-app-store"></i>Apps</a></li>
-        <li><a className='text-xl text-gray-500 font-semibold'><i class="fa-regular fa-circle-down"></i>Installation</a></li>
+        <Link to="/"><li><a className='text-xl text-gray-500 font-semibold'><i class="fa-regular fa-house"></i>Home</a></li></Link>
+        <Link to="/apps"><li><a className='text-xl text-gray-500 font-semibold'><i class="fa-brands fa-app-store"></i>Apps</a></li></Link>
+        <Link to="/installations"><li><a className='text-xl text-gray-500 font-semibold'><i class="fa-regular fa-circle-down"></i>Installation</a></li></Link>
     </>
     return (
         <div className="navbar bg-base-100 shadow-sm px-17 mx-auto">
