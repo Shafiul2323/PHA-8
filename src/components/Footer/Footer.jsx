@@ -5,7 +5,10 @@ const Footer = () => {
     return (
         <footer className="footer sm:footer-horizontal bg-[#001931] text-neutral-content border-b-1 border-gray-500 p-10">
             <aside>
-                <div className='flex items-center gap-1'><span className='text-xl font-semibold text-white'><img src={LogoImage} className='w-10 h-10' />Hero Apps</span></div>
+                <div className='flex items-center gap-1'>
+                    <img src={LogoImage} className='w-10 h-10' />
+                    <span className='text-xl font-semibold text-white'>Hero Apps</span>
+                </div>
                 <p className='text-gray-300'>At HERO.IO , we craft innovative apps designed to make<br />everyday life simpler, smarter, and more exciting. Our goal<br />is to turn your ideas into digital experiences that truly make <br />an impact</p>
             </aside>
             <nav className='text-gray-400'>

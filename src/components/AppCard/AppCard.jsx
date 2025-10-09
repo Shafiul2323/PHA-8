@@ -1,5 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router';
+import { MdOutlineFileDownload } from "react-icons/md";
+import { FaStar } from "react-icons/fa";
 
 const AppCard = ({ AppData }) => {
     const {id, image, title, downloads, ratingAvg } = AppData || {};
@@ -14,8 +16,14 @@ const AppCard = ({ AppData }) => {
                         <h2 className="card-title text-center mt-4">{title}</h2>
                     </div>
                     <div className='flex justify-between px-4 my-2'>
-                        <p className='bg-gray-200 py-1 px-3 rounded-xl'>{downloads}</p>
-                        <p className='bg-gray-200 py-1 px-3 rounded-xl'>{ratingAvg}</p>
+                        <div className='flex gap-1 items-center bg-gray-200 py-1 px-3 rounded-xl'>
+                            <MdOutlineFileDownload />
+                            <p>{downloads}</p>
+                        </div>
+                        <div className='flex gap-1 items-center bg-gray-200 py-1 px-3 rounded-xl'>
+                            <FaStar />
+                            <p>{ratingAvg}</p>
+                        </div>
                     </div>
                 </div>
             </div>
