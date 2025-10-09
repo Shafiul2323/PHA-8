@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "image": "/src/assets/AppIcon1.webp",
+    "title": "Forest: Focus for Productivity",
+    "companyName": "SeekrTech",
+    "description": "Forest helps you stay focused by planting trees as you work. If you remain productive, your tree flourishes; if you leave, it withers. A gamified focus app that reduces distractions and boosts motivation.",
+    "size": 45,
+    "reviews": "10 K",
+    "ratingAvg": 4.7,
+    "downloads": "10 M",
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 107000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "/src/assets/AppIcon2.webp",
+    "title": "SmPlan: ToDo List with Reminder",
+    "companyName": "SmartPlan Studio",
+    "description": "SmPlan is a powerful to-do list app with reminders. Organize tasks, set deadlines, and stay productive with recurring notifications and a clean interface for daily planning.",
+    "size": 28,
+    "reviews": "10 K",
+    "ratingAvg": 4.4,
+    "downloads": "10 M",
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 10900 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "/src/assets/AppIcon3.webp",
+    "title": "FLIP - Focus Timer for Study",
+    "companyName": "Rinasoft",
+    "description": "FLIP helps students and professionals use the Pomodoro method to improve focus. Track study hours, analyze time data, and join global study challenges for motivation.",
+    "size": 52,
+    "reviews": "10 K",
+    "ratingAvg": 4.6,
+    "downloads": "10 M",
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 28000 },
+      { "name": "5 star", "count": 75000 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "/src/assets/AppIcon4.webp",
+    "title": "Pomocat - Cute Pomodoro Timer",
+    "companyName": "CatMind Studio",
+    "description": "Pomocat makes productivity fun with a Pomodoro timer and adorable cat animations. Stay focused and motivated while enjoying a cute, distraction-free timer experience.",
+    "size": 37,
+    "reviews": "10 K",
+    "ratingAvg": 4.5,
+    "downloads": "10 M",
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 9500 },
+      { "name": "5 star", "count": 18800 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "/src/assets/AppIcon5.webp",
+    "title": "Time Planner: Schedule & Tasks",
+    "companyName": "TimeTune Studio",
+    "description": "Time Planner combines task scheduling, routines, and habit tracking into one app. Organize daily life with customizable time blocks and analyze productivity with reports.",
+    "size": 40,
+    "reviews": "10 K",
+    "ratingAvg": 4.6,
+    "downloads": "10 M",
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 17000 },
+      { "name": "5 star", "count": 46500 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "/src/assets/AppIcon6.webp",
+    "title": "Flip Clock: World Clock",
+    "companyName": "SimpleTech",
+    "description": "A stylish flip clock and world clock app. Perfect for minimalist time tracking, global time zones, and creating aesthetic desk setups with retro-inspired visuals.",
+    "size": 20,
+    "reviews": "10 K",
+    "ratingAvg": 4.3,
+    "downloads": "10 M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 8800 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "/src/assets/AppIcon7.webp",
+    "title": "Morning Habits - Daily Routine",
+    "companyName": "BetterYou",
+    "description": "Morning Habits helps you build a structured daily routine with reminders for exercise, journaling, meditation, and self-care to start your day positively and productively.",
+    "size": 31,
+    "reviews": "10 K",
+    "ratingAvg": 4.4,
+    "downloads": "10 M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 13600 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "/src/assets/AppIcon8.webp",
+    "title": "Focus Plant: Pomodoro Forest",
+    "companyName": "SeekrTech",
+    "description": "Focus Plant gamifies focus with Pomodoro timers and cute plants. Stay productive while growing and collecting plants in a virtual garden as you complete tasks.",
+    "size": 47,
+    "reviews": "10 K",
+    "ratingAvg": 4.6,
+    "downloads": "10 M",
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 18000 },
+      { "name": "5 star", "count": 38500 }
+    ]
+  }
+]
