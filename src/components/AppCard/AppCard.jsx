@@ -18,11 +18,11 @@ const AppCard = ({ AppData }) => {
                     </div>
                     <div className='flex justify-between px-4 my-2'>
                         <div className='flex gap-1 items-center bg-gray-200 py-1 px-3 rounded-xl'>
-                            <MdOutlineFileDownload />
+                            <MdOutlineFileDownload className='text-xl text-[#743DE7]'/>
                             <p>{downloads} M</p>
                         </div>
                         <div className='flex gap-1 items-center bg-gray-200 py-1 px-3 rounded-xl'>
-                            <FaStar />
+                            <FaStar className='text-yellow-500'/>
                             <p>{ratingAvg}</p>
                         </div>
                     </div>

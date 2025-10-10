@@ -6,7 +6,6 @@ import Home from '../pages/home/home';
 import Apps from '../pages/Apps/Apps';
 import Installations from '../pages/Installations/Installations';
 import AppDetails from '../pages/AppDetails/AppDetails';
-import AppNotFound from '../pages/ErrorPage/AppNotFound';
 
 export const router = createBrowserRouter([
   {

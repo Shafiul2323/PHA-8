@@ -86,6 +86,7 @@ const Installations = () => {
                       <FaStar className='text-yellow-500' />
                       <span>{app.ratingAvg}</span>
                     </div>
+                    <p>{app.size} MB</p>
                   </div>
                 </div>
               </div>
